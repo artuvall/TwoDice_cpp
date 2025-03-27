@@ -12,5 +12,7 @@ int main(){
 
     std::cout << "First Dice: " << dice1 << std::endl;
     std::cout << "Second Dice: " << dice2;
+
+    //Added comment just to test push on GitHub
     return 0;
 }
