@@ -1,0 +1,3 @@
+/Users/arturovalladolid/repos/CLion Projects/TwoDiceC++/cmake-build-debug/CMakeFiles/TwoDiceC__.dir
+/Users/arturovalladolid/repos/CLion Projects/TwoDiceC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arturovalladolid/repos/CLion Projects/TwoDiceC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
